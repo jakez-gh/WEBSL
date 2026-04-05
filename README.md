@@ -29,7 +29,7 @@ Despite this simplicity, WEBSL beats direct WebP in file size **~70% of the time
 ## Key Results
 
 ### Opaque image (Times Square, urban scene)
-
+![Opaque Image](Opaque%20Image%20(Times%20Square%2C%20urban%20scene).png)
 | Output     | WebP direct | WEBSL grain | Difference |
 |------------|-------------|-------------|------------|
 | 768 × 510  | 80.3 KB     | 71.5 KB     | **−8.9 KB** |
@@ -39,7 +39,7 @@ Despite this simplicity, WEBSL beats direct WebP in file size **~70% of the time
 MS-SSIM remains above 0.97 at all sizes.
 
 ### RGBA cutout image (native alpha)
-
+![RGBA Cutout](RGBA%20cutout%20image%20(native%20alpha).png)
 | Output     | WebP direct | WEBSL grain | Difference | MS-SSIM |
 |------------|-------------|-------------|------------|---------|
 | 646 × 386  | 22.4 KB     | 15.4 KB     | **−7.1 KB** | 0.986   |
