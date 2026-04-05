@@ -28,8 +28,7 @@ Despite this simplicity, WEBSL beats direct WebP in file size **~70% of the time
 
 ## Key Results
 
-### Opaque image (Times Square, urban scene)
-![Opaque Image](Opaque%20Image%20(Times%20Square%2C%20urban%20scene).png)
+### ![Opaque Image](Opaque%20Image%20(Times%20Square%2C%20urban%20scene).png)
 | Output     | WebP direct | WEBSL grain | Difference |
 |------------|-------------|-------------|------------|
 | 768 × 510  | 80.3 KB     | 71.5 KB     | **−8.9 KB** |
